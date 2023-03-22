@@ -11,7 +11,7 @@
 # [Vars]
 path="/var/lib/openproject"
 # ↳ Getting the path of the script and then getting the directory of the script.
-exposed_port="8080"
+exposed_port="8084"
 # ↳ The port that the web server will be exposed on.
 docker_name="openproject"
 # ↳ The name of the docker container.
